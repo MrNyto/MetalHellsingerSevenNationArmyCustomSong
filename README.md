@@ -1,4 +1,4 @@
-# MetalHellsingerSevenNationArmyCustomSong
+# Metal Hellsinger Seven Nation Army Custom Song
 Replaces vokes music with seven nation army by the white stripes, extract the zip and place the files below depending on where you got the game from
 
 # Where do I put the files?
